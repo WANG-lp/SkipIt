@@ -3,7 +3,7 @@ authors = ["William Wang"]
 edition = "2021"
 name = "skip_it"
 version = "0.1.0"
-description = "Skip Match Arms"
+description = "Skip Matched Arms"
 license = "MIT"
 repository = "https://github.com/WANG-lp/SkipIt"
 

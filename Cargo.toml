@@ -3,6 +3,9 @@ authors = ["William Wang"]
 edition = "2021"
 name = "skip_it"
 version = "0.1.0"
+description = "Skip Match Arms"
+license = "MIT"
+repository = "https://github.com/WANG-lp/SkipIt"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
